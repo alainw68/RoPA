@@ -149,9 +149,3 @@ http://safran//fr/login
 mysql -u root -p dpo 
 UPDATE `companies` SET `name` = "Ma compagnie" WHERE `id`=1;
 UPDATE `users` SET `first_name`="Prenom-DPO", `last_name`="Nom-DPO", `username`="Prenom-DPO.Nom-DPO", `email`="mail-DPO@Macompagnie.fr"  WHERE `id`=2;
-
-
-
-
-
-
